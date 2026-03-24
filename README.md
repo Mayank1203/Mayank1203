@@ -211,7 +211,7 @@ A full-stack backend for **real-time inventory tracking and billing automation**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=0d0015)](https://www.linkedin.com/in/mayankpatle)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=0d0015)](https://www.linkedin.com/in/mayank-patle)
 [![Email](https://img.shields.io/badge/Drop_an_Email-bf00ff?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:mayankpatle1203@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-00ffff?style=for-the-badge&logo=github&logoColor=0d0015)](https://github.com/Mayank1203)
 
