@@ -1,223 +1,352 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,30:1a0030,60:2d0060,100:ff00ff&height=280&section=header&text=MAYANK%20PATLE&fontSize=65&fontColor=ff00ff&fontAlignY=42&desc=⚡%20Backend%20Engineer%20%7C%20Java%20%26%20Distributed%20Systems%20⚡&descAlignY=62&descSize=18&animation=fadeIn&stroke=ff00ff&strokeWidth=2"/>
+# 👋 Hi, I'm Mayank Patle
 
-</div>
+### Java Backend Developer | Spring Boot | Microservices | REST APIs
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1200&pause=300&color=FF00FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=780&height=165&lines=%5BBOOT%5D+Initializing+system+...+OK;%5BBOOT%5D+Java+17+runtime+loaded+...+OK;%5BBOOT%5D+Spring+Boot+microservices+engine+...+OK;%5BBOOT%5D+MongoDB+%2B+MySQL+clusters+connected+...+OK;%5BBOOT%5D+JWT+authentication+layer+active+...+OK;%5BBOOT%5D+Distributed+fault-tolerance+online+...+OK;%5BBOOT%5D+All+systems+nominal.+Welcome%2C+Mayank." />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=21&duration=2500&pause=900&color=00FFFF&center=true&vCenter=true&width=760&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices+Architect;Distributed+Systems+Engineer;Enterprise+SaaS+Builder;Final+Year+%40+RGPV+Bhopal" />
+**B.Tech in Computer Science & Data Science — RGPV Bhopal**  
+🎓 Graduated June 2026
 
 <br/>
 
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20SDE%20ROLES-ff00ff?style=for-the-badge&labelColor=0d0015&logoColor=ff00ff)
-![Focus](https://img.shields.io/badge/FOCUS-BACKEND%20%26%20SYSTEM%20DESIGN-00ffff?style=for-the-badge&labelColor=0d0015)
+<a href="https://www.linkedin.com/in/mayank-patle">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Mayank1203">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:mayankpatle1203@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<br/><br/>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=0d0015)](https://www.linkedin.com/in/mayank-patle)
-[![GitHub](https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=0d0015)](https://github.com/Mayank1203)
-[![Email](https://img.shields.io/badge/Email-bf00ff?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:mayankpatle1203@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Bhopal,_India-ff00ff?style=for-the-badge&labelColor=0d0015)](#)
-
-</div>
-
----
-
-<div align="center">
-
-```
-███╗   ███╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗  ██╗
-████╗ ████║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██║ ██╔╝
-██╔████╔██║███████║ ╚████╔╝ ███████║██╔██╗ ██║█████╔╝ 
-██║╚██╔╝██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║██╔═██╗ 
-██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║ ╚████║██║  ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;REST+API+%7C+Distributed+Systems;Building+Scalable+Backend+Applications"/>
 
 </div>
 
 ---
 
-## 🌸 About Me
+## 👨‍💻 About Me
 
-Hey! I'm **Mayank Patle**, a final-year **B.Tech Computer Science & Data Science** student at *School of Information Technology, RGPV Bhopal* (2022–2026) with a CGPA of **7.84**.
+I'm a **Java Backend Developer** and **B.Tech Computer Science & Data Science graduate from RGPV Bhopal**, with a strong interest in backend engineering, distributed systems, and scalable application development.
 
-I specialise in **Java backend development**, designing **microservices architectures**, and building **fault-tolerant distributed systems** that scale under pressure.
+I enjoy designing and building backend systems using **Java, Spring Boot, REST APIs, Microservices, MongoDB, and MySQL**.
 
-Currently a **Backend Developer Intern at 3 Monkeys Digital**, shipping Spring Boot services, secure REST APIs, and automated billing systems in real production environments.
+During my internship at **3 Monkeys Digital**, I worked on Spring Boot backend services, secure REST APIs, JWT-based authentication, inventory management, and transactional billing systems.
+
+Currently, I'm focused on strengthening my skills in:
+
+- Backend Engineering
+- Data Structures & Algorithms
+- System Design
+- Microservices Architecture
+- Docker & Cloud Technologies
+- Scalable Distributed Systems
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
+</p>
+
+- Spring Boot
+- Spring Security
+- Spring Cloud
+- RESTful APIs
+- JWT Authentication
+- Microservices
+- API Gateway
+- Circuit Breaker
+- Feign Client
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+- MongoDB
+- MySQL
+- PostgreSQL
+- PGVector
+
+### ☁️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,postman,idea,vscode" />
+</p>
+
+- Docker
+- Kubernetes
+- Git & GitHub
+- Postman
+- IntelliJ IDEA
+- VS Code
+- Maven
+
+---
+
+# 🚀 Featured Projects
+
+## 🍔 Food Order Microservices System
+
+A backend application designed using **Spring Cloud Microservices Architecture**.
+
+### Architecture
+
+```text
+                    ┌─────────────────┐
+                    │   API Gateway   │
+                    └────────┬────────┘
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+          ▼                  ▼                  ▼
+   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+   │ User Service│    │ Restaurant  │    │ Order       │
+   │             │    │ Service     │    │ Service     │
+   └─────────────┘    └─────────────┘    └─────────────┘
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             ▼
+                         MongoDB
+```
+
+### Key Features
+
+- Spring Boot microservices
+- Spring Cloud architecture
+- API Gateway
+- Service discovery
+- Circuit Breaker using Resilience4j
+- Inter-service communication
+- MongoDB persistence
+- REST APIs
+- Independent service deployment
+
+### Technologies
+
+`Java` `Spring Boot` `Spring Cloud` `MongoDB` `Resilience4j` `REST API`
+
+🔗 **Repository:**  
+https://github.com/Mayank1203/Food_Order_Microservices_System
+
+---
+
+## 📦 Inventory Management System
+
+A Spring Boot based backend application for managing products, users, inventory, and billing.
+
+### Key Features
+
+- Product CRUD operations
+- User management
+- JWT authentication
+- Role-based authorization
+- Inventory tracking
+- Billing automation
+- MongoDB integration
+- RESTful APIs
+- Postman API testing
+
+### Technologies
+
+`Java` `Spring Boot` `MongoDB` `Spring Security` `JWT` `REST API`
+
+🔗 **Repository:**  
+https://github.com/Mayank1203/Inventory_Management
+
+---
+
+# 💼 Experience
+
+## Backend Developer Intern — 3 Monkeys Digital
+
+**August 2025 – November 2025**
+
+- Developed scalable backend services using **Spring Boot and MongoDB** for inventory management.
+- Built secure **REST APIs** using Spring Security and JWT-based role authentication.
+- Developed transactional billing APIs supporting real-time invoice generation and automated stock updates.
+- Worked with Git in an **Agile software development environment**.
+- Managed backend functionality for more than **500 product inventory records**.
+
+---
+
+# 🏆 Achievements & Certifications
+
+- 🎖️ **Letter of Recommendation — IIT Roorkee** for technical contributions as Campus Ambassador at Cognizance 2023.
+- 🏅 Participated in multiple hackathons focused on backend systems and software development.
+- 📜 **Java with Data Structures & System Design** — PW Skills.
+- 📜 **Programming Fundamentals using Python** — Infosys Springboard.
+
+---
+
+# 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python&theme=dark&perline=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mayank1203&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mayank1203&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate,postman&theme=dark&perline=8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark&perline=8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws&theme=dark&perline=8" />
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank1203&layout=compact&hide_border=true&theme=transparent&langs_count=8"/>
 
 </div>
 
 ---
 
-## 📊 Skill Proficiency
+# 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank1203&layout=donut&theme=radical&hide_border=true&title_color=ff00ff&text_color=00ffff&bg_color=0d0015&langs_count=8" height="230"/>
+<table>
+<tr>
 
-</div>
+<td width="50%" align="center">
+
+### 🏗️ System Design
+
+**Scalable Architecture**
+
+`Distributed Systems`  
+`Load Balancing`  
+`Caching`  
+`High Availability`
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧩 Advanced DSA
+
+**Problem Solving**
+
+`Algorithms`  
+`Data Structures`  
+`Optimization`  
+`Competitive Programming`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### ☁️ Cloud & DevOps
+
+**Cloud-Native Development**
+
+`AWS`  
+`Docker`  
+`Kubernetes`  
+`CI/CD`
+
+</td>
+
+<td width="50%" align="center">
+
+### 🔐 Backend Engineering
+
+**Production-Ready APIs**
+
+`API Design`  
+`Security`  
+`Performance`  
+`Scalability`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### 🌍 Open Source
+
+**Java & Spring Ecosystem**
+
+`Open Source Contributions` • `Spring Projects` • `Clean Code` • `Best Practices`
+
+</td>
+
+</tr>
+
+</table>
 
 <br/>
 
-<div align="center">
-
-| Skill | Level | Graph |
-|:------|:-----:|:------|
-| ☕ Java | Expert | `█████████████████████` 95% |
-| 🌱 Spring Boot | Expert | `█████████████████████` 95% |
-| 🔗 REST API Design | Expert | `████████████████████░` 90% |
-| 🔐 Spring Security + JWT | Advanced | `█████████████████░░░░` 85% |
-| 🍃 MongoDB | Advanced | `█████████████████░░░░` 85% |
-| ☁️ Spring Cloud | Advanced | `████████████████░░░░░` 80% |
-| 🐬 MySQL | Advanced | `████████████████░░░░░` 80% |
-| 🏗️ Microservices Architecture | Advanced | `███████████████░░░░░░` 75% |
-| 🔀 API Gateway + Circuit Breaker | Intermediate | `███████████████░░░░░░` 75% |
-| 🎯 System Design | Intermediate | `██████████████░░░░░░░` 70% |
-| 🐳 Docker + Kubernetes | Learning | `████████░░░░░░░░░░░░░` 38% |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Learning+%E2%86%92+Building+%E2%86%92+Improving;Focused+on+becoming+a+better+Backend+Engineer"/>
 
 </div>
 
+# 🎯 Career Focus
+
+I'm currently looking for opportunities where I can contribute as a:
+
+- **Java Backend Developer**
+- **Software Engineer**
+- **Backend SDE**
+- **Spring Boot Developer**
+
+I'm particularly interested in working on:
+
+> **Scalable backend systems • Distributed systems • Microservices • Cloud-native applications**
+
 ---
 
-## 💼 Experience
+# 📈 What I'm Working Towards
 
-### 🏢 Backend Developer Intern — 3 Monkeys Digital
-`August 2025 – November 2025`
-
-Designed and developed scalable **Spring Boot + MongoDB** backend services managing over **500 product inventory records**. Implemented secure **REST APIs** using Spring Security with **JWT role-based authentication** to improve access control across multiple user tiers. Built transactional **billing APIs** enabling real-time invoice generation and automated stock updates. Collaborated with the engineering team via **Git** in **Agile sprint** workflows.
+- 🧩 Solving more **DSA & algorithmic problems**
+- 🏗️ Designing production-grade **distributed systems**
+- ☁️ Building cloud-native applications
+- 🐳 Improving Docker & Kubernetes expertise
+- 🔐 Building secure and scalable APIs
+- 🌍 Contributing to open-source Java/Spring projects
 
 ---
 
-## 🚀 Projects
-
-### ⚡ Food Order Microservice System
-
-A production-grade distributed food ordering backend built using **Spring Cloud microservices** architecture. Designed an **API Gateway** as the unified entry point with **Circuit Breaker** (Resilience4j) preventing cascading failures. Each service deploys and scales independently, with built-in **load balancing** and service isolation ensuring high availability.
+# 🤝 Let's Connect
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-0d0015?style=flat-square&logo=openjdk&logoColor=ff00ff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d0015?style=flat-square&logo=springboot&logoColor=00ffff)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-0d0015?style=flat-square&logo=spring&logoColor=ff00ff)
-![API Gateway](https://img.shields.io/badge/API_Gateway-0d0015?style=flat-square&logo=amazonaws&logoColor=00ffff)
-![Resilience4j](https://img.shields.io/badge/Circuit_Breaker-0d0015?style=flat-square&logo=resilience4j&logoColor=bf00ff)
-
-</div>
-
----
-
-### ⚡ Inventory Management System
-
-A full-stack backend for **real-time inventory tracking and billing automation** using Java Spring Boot and MongoDB. Features **JWT role-based authentication** across Admin, Manager, and Staff tiers. Complete **CRUD APIs** handle product lifecycle management while a dynamic billing engine auto-generates invoices and keeps stock accurate without any manual input.
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-0d0015?style=flat-square&logo=openjdk&logoColor=ff00ff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d0015?style=flat-square&logo=springboot&logoColor=00ffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0015?style=flat-square&logo=mongodb&logoColor=ff00ff)
-![JWT](https://img.shields.io/badge/JWT-0d0015?style=flat-square&logo=jsonwebtokens&logoColor=00ffff)
-![Spring Security](https://img.shields.io/badge/Spring_Security-0d0015?style=flat-square&logo=springsecurity&logoColor=bf00ff)
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mayank1203&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&bg_color=0d0015" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mayank1203&theme=radical&hide_border=true&background=0D0015&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF&sideLabels=BF00FF&dates=888888&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
+I'm always interested in discussing **backend engineering, Java, Spring Boot, microservices, system design, and software development opportunities.**
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank1203&bg_color=0d0015&color=ff00ff&line=00ffff&point=ffffff&area=true&area_color=2d0060&hide_border=true&title_color=ff00ff"/>
+<a href="https://www.linkedin.com/in/mayank-patle">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</div>
+<a href="mailto:mayankpatle1203@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
----
+<a href="https://github.com/Mayank1203">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## 🏆 Achievements
+<br/><br/>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mayank1203&theme=radical&row=1&column=6&margin-w=10&no-bg=true&no-frame=true"/>
-</div>
-
-<br/>
-
-- 🎖️ **Letter of Recommendation — IIT Roorkee** for technical contributions as Campus Ambassador at Cognizance 2023
-- 🏅 Participated in multiple **hackathons** focused on backend systems, distributed architectures, and real-time development
-- 📜 **Certified:** Java with Data Structures & System Design — *PW Skills*
-- 📜 **Certified:** Programming Fundamentals using Python — *Infosys Springboard*
-
----
-
-## 🎵 Now Learning
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=600&color=BF00FF&center=true&vCenter=true&width=700&lines=▶+System+Design+at+Scale+...+80%25;▶+Advanced+DSA+...+65%25;▶+Cloud+Architecture+%28AWS%29+...+40%25;▶+Docker+%26+Kubernetes+...+38%25;▶+Open+Source+%28Spring+Ecosystem%29+...+20%25" />
-
-</div>
-
-| Topic | Progress |
-|:------|:---------|
-| 🏗️ System Design at Scale | `████████████████░░░░` 80% |
-| 📐 Advanced DSA | `█████████████░░░░░░░` 65% |
-| ☁️ Cloud Architecture (AWS) | `████████░░░░░░░░░░░░` 40% |
-| 🐳 Docker & Kubernetes | `████████░░░░░░░░░░░░` 38% |
-| 🌍 Open Source (Spring Ecosystem) | `████░░░░░░░░░░░░░░░░` 20% |
-
----
-
-## 🎯 Career Goals
-
-- 🏢 Land a **Backend SDE role** at a top-tier product company
-- 🏗️ Master **cloud-native and distributed system design** at scale
-- 🐳 Ship production-grade **Docker + Kubernetes** projects
-- 🌍 Contribute meaningfully to the **open-source Java / Spring** ecosystem
-- 🚀 Build and launch a **scalable SaaS product** end-to-end
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2200&pause=700&color=FF00FF&center=true&width=750&lines=Open+to+backend+%26+distributed+systems+collaboration;Let%27s+build+something+fault-tolerant+%26+planet-scale;Ping+me+—+response+time+under+24+hours+guaranteed" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=0d0015)](https://www.linkedin.com/in/mayank-patle)
-[![Email](https://img.shields.io/badge/Drop_an_Email-bf00ff?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:mayankpatle1203@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-00ffff?style=for-the-badge&logo=github&logoColor=0d0015)](https://github.com/Mayank1203)
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Mayank1203&color=ff00ff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d0015)
+<img src="https://komarev.com/ghpvc/?username=Mayank1203&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -225,8 +354,6 @@ A full-stack backend for **real-time inventory tracking and billing automation**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=900&color=BF00FF&center=true&width=650&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Design+for+failure+—+everything+else+is+a+bonus.%22;%22Simplicity+is+the+soul+of+efficiency.%22" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,40:bf00ff,70:2d0060,100:0d0015&height=130&section=footer"/>
+### 💡 "Build systems that are simple, scalable, and reliable."
 
 </div>
